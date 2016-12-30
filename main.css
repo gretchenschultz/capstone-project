@@ -81,7 +81,7 @@ h1 {
     text-align: center;
     font-size: 45px;
     font-style: bold;
-    margin-top: 210px;
+    margin-top: 110px;
 	letter-spacing: 2px;
 }
 
@@ -133,7 +133,6 @@ h5 {
     margin-left: 30px;
     text-align: left;
     font-size: 25px
-    color: #000000;
 }
 
 .js_gallery_address {
@@ -142,11 +141,11 @@ h5 {
     text-align: left;
     font-style: normal;
     font-size: 15px;
-    color: #000000;
-
+	color: #000000;
 }
 
 .footer {
 	padding-top: 50px;
 	padding-bottom: 15px;
+}.nav {
 }
