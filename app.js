@@ -50,7 +50,7 @@ function findGalleries() {
     service.nearbySearch({
       location: pos,
       radius: radSend,
-      type: ['art']
+      type: ['art_gallery']
     }, callback);
   });
 };
