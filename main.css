@@ -1,0 +1,149 @@
+* {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    box-sizing: border-box;
+}
+
+body {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/34/b1/ec/34b1ec06cb649076128a3a7c1f11b369.jpg");
+}
+
+
+.searchButton {
+    margin-bottom: 60px;
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px;
+    width: 530px;
+    font-size: 12px;
+	font-weight: 500;
+	letter-spacing: 1px;
+    cursor: pointer;
+}
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px;
+    width: 330px;
+    font-size: 12px;
+	font-weight: 500;
+	letter-spacing: 1px;
+    cursor: pointer;
+	margin-top: 40px;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #000000;
+}
+
+.searchButton:hover, .searchButton:focus {
+    background-color: #f8cf93;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 330px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: bold;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #9a9a9a}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
+
+#map {
+    float: center;
+}
+
+
+h1 {
+    color: #000000;
+    text-align: center;
+    font-size: 45px;
+    font-style: bold;
+    margin-top: 210px;
+	letter-spacing: 2px;
+}
+
+
+h2 {
+	color: #000000;
+    text-align: center;
+    font-size: 23px;
+    font-style: bold;
+	letter-spacing: 1px;
+	padding-top: 2px;
+}
+
+
+h5 {
+	color: #3f3b3b;
+	text-align: center;
+	font-size: 14px;
+	margin-top: 5px;
+	line-height: 0px;
+	letter-spacing: 1px;
+}
+
+.pushinfo {
+    color: #f8cf93;
+    font-size: 15px;
+    margin-top: 70px;
+}
+
+
+.js-start {
+    text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.mapinfo {
+    background-color: #f8cf93;
+    float: right;
+    color: #4d4d4d;
+    padding: 8px;
+}
+.clearfix {
+    clear:both
+}
+
+.js_gallery_name {
+    margin-top: 30px;
+    margin-left: 30px;
+    text-align: left;
+    font-size: 25px
+}
+
+.js_gallery_address {
+    margin-top: 5px;
+    margin-left: 30px;
+    text-align: left;
+    font-style: normal;
+    font-size: 15px;
+}
+
+.footer {
+	padding-top: 50px;
+	padding-bottom: 15px;
+}
