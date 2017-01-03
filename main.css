@@ -1,5 +1,5 @@
 * {
-    font-family: "helvetica neue", "sans-serif";
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
     box-sizing: border-box;
 }
 
@@ -145,7 +145,7 @@ p {
     background-color: #bd8650;
     float: right;
     color: #ffffff;
-    padding: 75px;
+    padding: 25px;
 }
 .clearfix {
     clear:both
@@ -163,7 +163,7 @@ p {
     font-style: normal;
     font-size: 15px;
     color: #ffffff;
-    line-height: 0px;
+    line-height: 20px;
 }
 
 .footer {
