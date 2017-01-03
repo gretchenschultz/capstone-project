@@ -119,11 +119,15 @@ p {
 }
 
 .Navigation {
-    font color: #bd8650;
+    font color: #ffffff;
     font-size: 12px;
     text-align: center;
     margin top: 20px;
     letter-spacing: 1px;
+}
+
+.Navigation:hover, .Navigation:focus {
+    color: #bd8650;
 }
 
 .pushinfo {
