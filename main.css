@@ -109,18 +109,11 @@ h5 {
     letter-spacing: 1px;
 }
 
-p {
-    color: #ffffff;
-    text-align: center;
-    font-size: 12px;
-    margin-top: 20px;
-    letter-spacing: 1px;
-
-}
 
 .Navigation {
     font color: #ffffff;
     font-size: 12px;
+    font-style: bold;
     text-align: center;
     margin top: 20px;
     letter-spacing: 1px;
