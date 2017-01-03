@@ -109,6 +109,19 @@ h5 {
     letter-spacing: 1px;
 }
 
+p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 20px;
+    letter-spacing: 1px;
+
+}
+
+.Navigation:hover, .Navigation:focus {
+    color: #bd8650;
+}
+
 .pushinfo {
     color: #ffffff;
     font-size: 15px;
