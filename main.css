@@ -93,7 +93,7 @@ h1 {
 h2 {
     color: #ffffff;
     text-align: center;
-    font-size: 23px;
+    font-size: 19px;
     font-style: bold;
     letter-spacing: 1px;
     padding-top: 2px;
@@ -109,11 +109,17 @@ h5 {
     letter-spacing: 1px;
 }
 
+p {
+    color: #ffffff;
+    text-align: center;
+    font-size: 10px;
+    margin-top: 30px;
+    letter-spacing: 1px;
+}
 
 .Navigation {
     font color: #ffffff;
     font-size: 12px;
-    font-style: bold;
     text-align: center;
     margin top: 20px;
     letter-spacing: 1px;
@@ -139,7 +145,7 @@ h5 {
     background-color: #bd8650;
     float: right;
     color: #ffffff;
-    padding: 25px;
+    padding: 75px;
 }
 .clearfix {
     clear:both
@@ -157,7 +163,7 @@ h5 {
     font-style: normal;
     font-size: 15px;
     color: #ffffff;
-    line-height: 20px;
+    line-height: 0px;
 }
 
 .footer {
