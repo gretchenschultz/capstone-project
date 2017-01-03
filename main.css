@@ -93,7 +93,7 @@ h1 {
 h2 {
     color: #ffffff;
     text-align: center;
-    font-size: 18px;
+    font-size: 23px;
     font-style: bold;
     letter-spacing: 1px;
     padding-top: 2px;
@@ -118,6 +118,17 @@ p {
 
 }
 
+.Navigation {
+    font color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+    margin top: 20px;
+    letter-spacing: 1px;
+}
+
+.Navigation:hover, .Navigation:focus {
+    color: #bd8650;
+}
 
 .pushinfo {
     color: #ffffff;
@@ -135,26 +146,25 @@ p {
     background-color: #bd8650;
     float: right;
     color: #ffffff;
-    padding: 45px;
+    padding: 75px;
 }
 .clearfix {
     clear:both
 }
 
 .js_gallery_name {
-    margin-top: 30px;
-    margin-left: 30px;
+    margin-left: 0px;
     text-align: left;
     font-size: 25px
 }
 
 .js_gallery_address {
-    margin-top: 5px;
-    margin-left: 30px;
+    margin-top: 15px;
     text-align: left;
     font-style: normal;
     font-size: 15px;
     color: #ffffff;
+    line-height: 0px;
 }
 
 .footer {
