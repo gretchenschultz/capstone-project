@@ -10,36 +10,40 @@ body {
 
 .searchButton {
     margin-bottom: 60px;
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #ffffff;
+    border: none;
+    color: #bd8650;
     padding: 10px;
     width: 530px;
     font-size: 12px;
-	font-weight: 500;
-	letter-spacing: 1px;
+    font-weight: 500;
+    letter-spacing: 1px;
     cursor: pointer;
 }
 
 /* Dropdown Button */
 .dropbtn {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #bd8650;
+    border: none;
     padding: 10px;
     width: 330px;
     font-size: 12px;
-	font-weight: 500;
-	letter-spacing: 1px;
+    font-weight: 500;
+    letter-spacing: 1px;
     cursor: pointer;
-	margin-top: 40px;
+    margin-top: 40px;
 }
 
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
-    background-color: #000000;
+    background-color: #bd8650;
+    color: #ffffff;
 }
 
 .searchButton:hover, .searchButton:focus {
-    background-color: #f8cf93;
+    background-color: #bd8650;
+    color: #ffffff;
 }
 
 /* The container <div> - needed to position the dropdown content */
@@ -77,36 +81,36 @@ body {
 
 
 h1 {
-    color: #000000;
+    color: #ffffff;
     text-align: center;
     font-size: 45px;
     font-style: bold;
     margin-top: 80px;
-	letter-spacing: 2px;
+    letter-spacing: 2px;
 }
 
 
 h2 {
-	color: #000000;
+    color: #ffffff;
     text-align: center;
     font-size: 23px;
     font-style: bold;
-	letter-spacing: 1px;
-	padding-top: 2px;
+    letter-spacing: 1px;
+    padding-top: 2px;
 }
 
 
 h5 {
-	color: #3f3b3b;
-	text-align: center;
-	font-size: 12px;
-	margin-top: 5px;
-	line-height: 0px;
-	letter-spacing: 1px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 5px;
+    line-height: 0px;
+    letter-spacing: 1px;
 }
 
 .pushinfo {
-    color: #f8cf93;
+    color: #ffffff;
     font-size: 15px;
     margin-top: 70px;
 }
@@ -114,15 +118,15 @@ h5 {
 
 .js-start {
     text-align: center;
-	margin-top: 20px;
-	margin-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .mapinfo {
-    background-color: #f8cf93;
+    background-color: #bd8650;
     float: right;
-    color: #4d4d4d;
-    padding: 8px;
+    color: #ffffff;
+    padding: 45px;
 }
 .clearfix {
     clear:both
@@ -141,11 +145,9 @@ h5 {
     text-align: left;
     font-style: normal;
     font-size: 15px;
-	color: #000000;
+    color: #ffffff;
 }
 
 .footer {
-	padding-top: 50px;
-	padding-bottom: 15px;
-}.nav {
-}
+    padding-top: 50px;
+    padding-bottom: 15px;
