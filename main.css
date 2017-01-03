@@ -143,14 +143,14 @@ p {
 .js_gallery_name {
     margin-left: 0px;
     text-align: left;
-    font-size: 25px
+    font-size: 20px
 }
 
 .js_gallery_address {
     margin-top: 15px;
     text-align: left;
     font-style: normal;
-    font-size: 15px;
+    font-size: 12px;
     color: #ffffff;
     line-height: 20px;
 }
