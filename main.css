@@ -14,7 +14,7 @@ body {
     border: none;
     color: #bd8650;
     padding: 10px;
-    width: 530px;
+    width: 330px;
     font-size: 12px;
     font-weight: 500;
     letter-spacing: 1px;
@@ -117,17 +117,6 @@ p {
     letter-spacing: 1px;
 }
 
-.Navigation {
-    font color: #ffffff;
-    font-size: 12px;
-    text-align: center;
-    margin top: 20px;
-    letter-spacing: 1px;
-}
-
-.Navigation:hover, .Navigation:focus {
-    color: #bd8650;
-}
 
 .pushinfo {
     color: #ffffff;
