@@ -93,7 +93,7 @@ h1 {
 h2 {
     color: #ffffff;
     text-align: center;
-    font-size: 23px;
+    font-size: 18px;
     font-style: bold;
     letter-spacing: 1px;
     padding-top: 2px;
@@ -118,17 +118,6 @@ p {
 
 }
 
-.Navigation {
-    font color: #ffffff;
-    font-size: 12px;
-    text-align: center;
-    margin top: 20px;
-    letter-spacing: 1px;
-}
-
-.Navigation:hover, .Navigation:focus {
-    color: #bd8650;
-}
 
 .pushinfo {
     color: #ffffff;
